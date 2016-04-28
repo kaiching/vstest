@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Receive", "Receive\Receive.vcxproj", "{643676F2-8CC1-480B-9851-671E615ABDE0}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Send", "Send\Send.vcxproj", "{C0A6339F-0587-4B53-AF04-7A5DBAF02351}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{643676F2-8CC1-480B-9851-671E615ABDE0}.Debug|Win32.ActiveCfg = Debug|Win32
+		{643676F2-8CC1-480B-9851-671E615ABDE0}.Debug|Win32.Build.0 = Debug|Win32
+		{643676F2-8CC1-480B-9851-671E615ABDE0}.Release|Win32.ActiveCfg = Release|Win32
+		{643676F2-8CC1-480B-9851-671E615ABDE0}.Release|Win32.Build.0 = Release|Win32
+		{C0A6339F-0587-4B53-AF04-7A5DBAF02351}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C0A6339F-0587-4B53-AF04-7A5DBAF02351}.Debug|Win32.Build.0 = Debug|Win32
+		{C0A6339F-0587-4B53-AF04-7A5DBAF02351}.Release|Win32.ActiveCfg = Release|Win32
+		{C0A6339F-0587-4B53-AF04-7A5DBAF02351}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
